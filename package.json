@@ -11,5 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "A practise project",
+	"keywords": ["practise","first node project","sample project","freecodecamp"],
+	"license": "Local",
+	"version":"1.2.0"
 }
